@@ -1,9 +1,12 @@
+
+
 const productsData=[
     {
         title:"React kursai",
-        price:"9.99"
-        
+        price:"9.99",
+      
       },
+
       {
         title:"Angular.JS kursai",
         price:"29.99"
