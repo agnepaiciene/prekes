@@ -13,7 +13,7 @@ function Teacher(props) {
         </div>
         <div class="col-md-8">
           <div class="card-body fs-6 fw-normal text-sm-start flex-grow-1">
-            <p class="fw-bold p-1">{firstname}{lastname}</p>
+            <p class="p-1"><b>{firstname}</b>{lastname}</p> 
        
             {lesson} 
             <br></br>
